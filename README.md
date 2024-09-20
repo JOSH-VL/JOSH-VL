@@ -1,4 +1,4 @@
-## Hola a todos acá Josh Y :D👋
+## Hello everyone, I'm Josué Valiente. :D 👋
 
 
 
