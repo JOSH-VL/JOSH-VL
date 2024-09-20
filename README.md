@@ -152,6 +152,11 @@
 <br> 
 
 
+  <!-- imagen MODIFICARLA --> 
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
   <!-- snap animation -->
   ## 🐍 A Snake Eating the Contributions Graph
 <div align="center">
