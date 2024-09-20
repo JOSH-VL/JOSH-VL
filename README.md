@@ -1,7 +1,3 @@
-<!-- Bienvenida con imagen de Anonymous --
-<h1 align="center">Hi Josué Valiente Here :D  
-  <img src="https://media.giphy.com/media/4v2CP18EJFLMVH3qhJ/giphy.gif" width="80" height="90" alt="Anonymous GIF">
-</h1>>
 <!-- Bienvenida con el GIF de Anonymous usando img -->
 <h1 align="center">Hi Josué Valiente Here
 <img src="https://media.giphy.com/media/XX0V50HI1rWAzVfABm/giphy.gif" width="60"  alt="Anonymous GIF">
@@ -22,8 +18,8 @@
 - :school: I am a `Student` at [Faculty of Systems Engineering](https://umg.edu.gt/ingenieria/sistemas) at [Mariano Galvez University](https://umg.edu.gt/comunicaciones/laboratorio/computo).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :computer: I am a competitive programmer and `Content Creator` .
+- :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
