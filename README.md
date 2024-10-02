@@ -32,7 +32,7 @@ Otro estilo, en fondo color negro
 <p align="center">
 	<a href="mailto:joskydinky@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/JOSH-VL"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/50238811813"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://wa.me/50238811813?text=Hola%20quiero%20Contactarme%20Contigo"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://https://www.facebook.com/profile.php?id=61566584672580"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://https://www.instagram.com/joshy.zy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -110,8 +110,8 @@ Otro estilo, en fondo color negro
     <a href="#"><img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52"></a>
   &emsp;
     <a href="#"><img alt="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52"></a>
-  &emsp;
-    <a href="#"><img alt="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52"></a>
+  <!--&emsp;
+    <a href="#"><img alt="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52"></a> MARIA DB APRENDIENDO -->
   &emsp;
 <a href="#">
 <img alt="Docker"src="https://camo.githubusercontent.com/cb5327040ace793dee61a261b1b693cab7ff61543f909a2e5cce6d66fd442b2e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f636b6572267065726c696e653d33" width="52"></a>
